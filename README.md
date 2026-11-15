@@ -55,7 +55,7 @@
     <td width="50%" valign="top">
       <kbd>&nbsp;> Practis_&nbsp;</kbd>
       <br><br>
-      my Hyprland dotfiles
+      my Hyprland dotfiles.
       <br><br>
       <a href="https://github.com/GabrielAlgumaCoisa/Practis">→ view repository</a>
       <br>
@@ -63,7 +63,7 @@
     <td width="50%" valign="top">
       <kbd>&nbsp;> RPG project_&nbsp;</kbd>
       <br><br>
-      short project description.
+      A RPG system and universe that I am working on.
       <br><br>
       <a href="https://github.com/GabrielAlgumaCoisa/RPG-F-F">→ view repository</a>
     </td>
