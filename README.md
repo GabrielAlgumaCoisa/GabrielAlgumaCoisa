@@ -36,11 +36,11 @@
     <td width="50%" valign="top">
       <kbd>&nbsp;> Currently exploring_&nbsp;</kbd>
       <br><br>
-      <b>hardware:</b> ThinkPad<br>
-      <b>system:</b> CachyOS<br>
-      <b>wm:</b> Hyprland<br>
-      <b>shell:</b> ...<br>
-      <b>editor:</b> ...
+      • Linux desktop customization<br>
+      • Java and object-oriented programming<br>
+      • Web development (HTML / CSS)<br>
+      • UI design and visual identity<br>
+      • System infrastructure and hardware
       <br><br>
     </td>
   </tr>
