@@ -6,7 +6,7 @@
 
 <p align="end">README.MD 1.0.1</p>
 <p align="center">
-  ■ Hi, I'm <b>Gabriel</b> an Information Systems student interested in building things, understanding how they work, and making them my own ■
+  ■ Hi, I'm <b>Gabriel</b>, an Information Systems student interested in building things, understanding how they work, and making them my own ■
 <br>
 <b>(=w=)</b> a little bit of everything I'm working on lives down here <b>(=w=)</b>
 </p>
@@ -32,9 +32,6 @@
       <br><br>
       I enjoy understanding how things work and finding ways to make them work better. I'm particularly interested in Linux, software development, and interface design, but I also enjoy exploring ideas outside those areas.
       I like experimenting, researching, and building things from the ground up. Whether it's customizing my desktop environment or creating something entirely new, I care about both how things work and how they come together.
-      <br><br>
-      <img src="assets/sticker1.gif" width="15%">
-      <img src="assets/sticker2.png" width="15%">
     </td>
     <td width="50%" valign="top">
       <kbd>&nbsp;> Currently exploring_&nbsp;</kbd>
@@ -45,7 +42,6 @@
       <b>shell:</b> ...<br>
       <b>editor:</b> ...
       <br><br>
-      <img src="assets/screenshot-mini.png" width="100%">
     </td>
   </tr>
 </table>
@@ -115,17 +111,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="assets/button1.gif">
-  <img src="assets/button2.gif">
-  <img src="assets/button3.gif">
-  <img src="assets/button4.gif">
-  <img src="assets/button5.gif">
-</p>
-
 <br>
 <p align="left">
   <img src="assets/terminal-footer.svg">
