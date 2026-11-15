@@ -6,7 +6,7 @@
 
 <p align="end">README.MD 1.0.1</p>
 <p align="center">
-  ■ Hi, I'm <b>Gabriel</b>, an Information Systems student interested in building things, understanding how they work, and making them my own ■
+  ■ I like building things, understanding how they work, and making them my own ■
 <br>
 <b>(=w=)</b> a little bit of everything I'm working on lives down here <b>(=w=)</b>
 </p>
