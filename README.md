@@ -100,7 +100,7 @@
       <kbd>&nbsp;> listening_&nbsp;</kbd>
       <br><br>
       <a href="https://open.spotify.com/user/31bs7j22wouj4ylezj4x24tahwme">
-      <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bs7j22wouj4ylezj4x24tahwme&amp;count=3&amp;width=360&amp;radius=0&amp;profile=off&amp;username=off&amp;footer=wave" alt="Spotify recently played" width="300" />
+      <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31bs7j22wouj4ylezj4x24tahwme&amp;count=3&amp;width=360&amp;radius=0&amp;profile=off&amp;username=off&amp;footer=wave" alt="Spotify recently played" width="600" />
       </a>
     </td>
     <td width="50%" valign="top">
