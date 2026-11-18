@@ -50,7 +50,7 @@
 
 ## <img src="assets/projects.svg" widith="100%">
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <kbd>&nbsp;> Practis_&nbsp;</kbd>
